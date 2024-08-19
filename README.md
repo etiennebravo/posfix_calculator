@@ -1,7 +1,7 @@
 # INFIX TO POSTFIX CALCULATOR
 
-Created by [Etienne Bravo]
-Project outline and test file provided by: Kevin Mess <kevin.mess@csn.edu>
+- Created by [Etienne Bravo]
+- Project outline and test file provided by: Kevin Mess <kevin.mess@csn.edu>
 
 This project converts infix expressions to postfix notation and evaluates the resulting postfix expressions.
 It supports basic arithmetic operations and handles parentheses.
@@ -17,9 +17,9 @@ Example formula: ( ( -500 + 400 ) * ( -300 - 200 ) / ( -100 / ( 0 + 100 ) ) ) = 
 
 ## Note: Makefile included for easier compile and run processes.
 ## Make:
-   all : compiles all files and generates executable file.
-   run : runs the program no input file.
-   runFile : runs the program with input.txt.
+   - all : compiles all files and generates executable file.
+   - run : runs the program no input file.
+   - runFile : runs the program with input.txt.
 
 ## Features:
   1. Convertion of infix to postfix.
