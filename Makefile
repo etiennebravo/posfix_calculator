@@ -10,7 +10,7 @@ run: postfix_calc
 
 # Run with input file
 run: postfix_calc
-	./postfix_calc.exe input3.txt
+	./postfix_calc.exe input.txt
 
 clean: 
 	$(RM) postfix_calc.exe
