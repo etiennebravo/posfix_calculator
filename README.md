@@ -1,7 +1,5 @@
 # INFIX TO POSTFIX CALCULATOR
 
-- Created by [Etienne Bravo]
-
 This project converts infix expressions to postfix notation and evaluates the resulting postfix expressions.
 It supports basic arithmetic operations and handles parentheses.
 
